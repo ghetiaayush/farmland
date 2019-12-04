@@ -1,0 +1,12 @@
+Unzip this folder in your server folder and put into your computer C Drive.
+
+After that, start your WAMP / XAMPP server.
+
+Open your browser.
+
+Open localhost's index folder and select your folder after that its working.
+
+Open phpmyadmin and create new database name - farmland.
+Select this database and import farmland.sql file into this.
+
+Finally your project setup is done.
